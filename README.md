@@ -2,7 +2,7 @@
 
 A secure and efficient RESTful CRUD Todo List application built with Golang, Fiber, and PostgreSQL (via PGX driver), designed with security and usability best practices.
 
-![cover](https://github.com/vadimfedulov035/vorterumilo/blob/main/cover.png)
+![cover](https://github.com/vadimfedulov035/go-todo-api/blob/main/cover.png)
 
 ## 🚀 Features
 
